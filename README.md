@@ -26,7 +26,6 @@ Os dados são persistidos em memória, no objeto existente dentro do arquivo dad
 - [npm](https://www.npmjs.com/)
 - [Express](https://expressjs.com/pt-br/)
 - [nodemon](https://nodemon.io/)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 &nbsp;
 
