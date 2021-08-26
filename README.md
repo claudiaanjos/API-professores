@@ -7,7 +7,7 @@ Projeto desenvolvido para consolidar os conhecimentos de Back-end.
 
 Para esse projeto foi construída uma RESTful API para controle de professores de uma escola.
 
-Este controle de professores é executado em um servidor nodejs e acessado através do endereço http://localhost:8000. 
+Este controle de professores é executado em um servidor nodejs e acessado através do endereço `http://localhost:8000`. 
 O sistema possui uma lista com informações dos professores: nome, idade e disciplina que leciona, e funcionalidades para poder: 
 
 - consultar a lista inteira de professores;
@@ -22,10 +22,11 @@ Os dados são persistidos em memória, no objeto existente dentro do arquivo dad
 ### 🖥️  Recursos utilizados
 
 - [Visual Studio Code](https://code.visualstudio.com/download)
-- [Node.js](https://nodejs.org/en/)
+- [nodeJS](https://nodejs.org/en/)
 - [npm](https://www.npmjs.com/)
-- [Express](https://expressjs.com/pt-br/)
+- [express](https://expressjs.com/pt-br/)
 - [nodemon](https://nodemon.io/)
+- [Insomnia](https://insomnia.rest/download)
 
 &nbsp;
 
