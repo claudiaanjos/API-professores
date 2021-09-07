@@ -5,7 +5,7 @@
 
 Projeto desenvolvido para consolidar os conhecimentos de Back-end.
 
-Para esse projeto foi construída uma RESTful API para controle de professores de uma escola.
+Para esse projeto foi construída uma API para controle de professores de uma escola.
 
 Este controle de professores é executado em um servidor nodejs e acessado através do endereço `http://localhost:8000`. 
 O sistema possui uma lista com informações dos professores: nome, idade e disciplina que leciona, e funcionalidades para poder: 
